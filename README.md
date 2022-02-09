@@ -16,6 +16,8 @@
 
 `2018.01~2021.03` 삼성SDI 열 성능 실험, 실험실 유지보수
 
+`2022.02~` 아우토크립트 모바일 라이브러리 개발자
+
 
 
 ## **🎓 Education**
@@ -53,11 +55,3 @@ Git` `Github` `Notion` `Word` `Excel` `PowerPoint` `Eclipse` `Intellij` `Android
 ```
 HTML5` `CSS3` `Javascript` `Bootstrap` `Ajax` `Jquery` `java` `spring` `Mysql` `Oracle` `NaverCloud` `Linux`
 ```
-
-
-
-## Notion
-
-[노션 이력서](https://flame-makemake-a92.notion.site/Curriculum-Vitae-b20f426b1a9646aa9b77a88d672d242d)
-
-[노션 포트폴리오](https://flame-makemake-a92.notion.site/PORTFOLIO-a91ea87add5146f7971f2a829f688a82)
